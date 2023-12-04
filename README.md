@@ -15,7 +15,7 @@ A simple password generator web application created using HTML, CSS, and JavaScr
 1. Clone the repository:
    ```bash
    git clone https://github.com/agrawal542/password-generator.git
-   cd blog-website
+   cd password-generator
 2. **Adjust settings:**
    - Set the desired password length
    - Choose character types (lowercase, uppercase, numbers, symbols)
